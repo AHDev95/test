@@ -1,3 +1,25 @@
 {
-    "uploadEntries": []
+    "uploadEntries": [
+        {
+            "AltspaceId": "1873790313772875986",
+            "Name": "Key",
+            "IsEnabled": true,
+            "UploadItems": [
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1873790313772875986_key/Key.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1873790313772875986_key/Lock.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                }
+            ],
+            "PerPlatformAssets": false,
+            "HideContents": false
+        }
+    ]
 }
