@@ -10,6 +10,12 @@
                     "ForAndroid": true,
                     "ForWin": true,
                     "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1886473233960534537_wolverine_skull/firstAtempt_copy_Model_19 (1).prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
                 }
             ],
             "PerPlatformAssets": false,
