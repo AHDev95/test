@@ -1,18 +1,12 @@
 {
     "uploadEntries": [
         {
-            "AltspaceId": "1873790313772875986",
-            "Name": "Key",
+            "AltspaceId": "1886473233960534537",
+            "Name": "wolverine skull",
             "IsEnabled": true,
             "UploadItems": [
                 {
-                    "PrefabFilepath": "Assets/Prefabs/1873790313772875986_key/Key.prefab",
-                    "ForAndroid": true,
-                    "ForWin": true,
-                    "ForMac": true
-                },
-                {
-                    "PrefabFilepath": "Assets/Prefabs/1873790313772875986_key/Lock.prefab",
+                    "PrefabFilepath": "Assets\\prefab\\firstAtempt_copy_Model_19.prefab",
                     "ForAndroid": true,
                     "ForWin": true,
                     "ForMac": true
