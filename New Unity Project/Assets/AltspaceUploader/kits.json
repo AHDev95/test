@@ -1,18 +1,111 @@
 {
     "uploadEntries": [
         {
-            "AltspaceId": "1886473233960534537",
-            "Name": "wolverine skull",
+            "AltspaceId": "1888615207366820360",
+            "Name": "Logan",
             "IsEnabled": true,
             "UploadItems": [
                 {
-                    "PrefabFilepath": "Assets\\prefab\\firstAtempt_copy_Model_19.prefab",
+                    "PrefabFilepath": "Assets/Prefabs/1888615207366820360_logan/wolverinefbxApplyNotselected.prefab",
                     "ForAndroid": true,
                     "ForWin": true,
                     "ForMac": true
                 },
                 {
-                    "PrefabFilepath": "Assets/Prefabs/1886473233960534537_wolverine_skull/firstAtempt_copy_Model_19 (1).prefab",
+                    "PrefabFilepath": "Assets/Prefabs/1888615207366820360_logan/firstAtempt_copy_Model_19.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1888615207366820360_logan/roarIntro.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1888615207366820360_logan/friendDoc.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1888615207366820360_logan/BestDen.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1888615207366820360_logan/script2Habitat.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1888615207366820360_logan/script2MeltingSnow.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1888615207366820360_logan/Script3Rescue.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1888615207366820360_logan/script3Rescue2.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1888615207366820360_logan/conclusion.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1888615207366820360_logan/kitts2.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1888615207366820360_logan/kittsDen.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1888615207366820360_logan/SnarlClip.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1888615207366820360_logan/wolverineSnarlClip.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1888615207366820360_logan/skullSmall.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                }
+            ],
+            "PerPlatformAssets": false,
+            "HideContents": false
+        },
+        {
+            "AltspaceId": "1888615207366820360",
+            "Name": "Logan",
+            "IsEnabled": false,
+            "UploadItems": [
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1888615207366820360_logan/wolverinefbxNotbaked.prefab",
                     "ForAndroid": true,
                     "ForWin": true,
                     "ForMac": true
